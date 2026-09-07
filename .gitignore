@@ -1,8 +1,9 @@
 .vscode
-testing-project
 .mypy_cache
-# poetry.lock
-dev-link/
+docker-stack.yml
+*.txt
+.env
+*.code-workspace
+.s3cfg
 
 .DS_Store
-.idea/
